@@ -1,6 +1,8 @@
 # Customer data portal integration
 
 ## Overview 
+A [Linx](https://linx.software/utm_source=github) application is created which processes customer data from a file, inserts the data into a database, and then exposes this data on a REST endpoint.
+
 A CSV file containing Customer related data is dropped into a file server directory. 
 When the file is picked up, the Customer data is retrieved from the file and then inserted into a SQL database row by row. 
 A Linx REST web service then returns the Customer data from the database when requested from a front-end portal (UI Bakery).
