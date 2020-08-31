@@ -7,6 +7,8 @@ A CSV file containing Customer related data is dropped into a file server direct
 When the file is picked up, the Customer data is retrieved from the file and then inserted into a SQL database row by row. 
 A Linx REST web service then returns the Customer data from the database when requested from a front-end portal (UI Bakery).
 
+Video walkthroughs available [here].
+
 ## Process Flow
 
 ### Automate data import from file to database (File/Database) - 1/3
@@ -16,6 +18,7 @@ Following this, the file is then moved to a ‘processed’ location.
 
 A Timer service is created which executes on a 1 min interval. 
 The timer service performs a list of all the files within a directoy, when a file is picked up, the custom file processing process [ImportFileIntoDatabase]  is executed for each file.
+
 
 ### Expose Customer Data to front-end portal (REST API)  2/3
 A custom Linx process [GetCustomersFromDatabase] is created which queries the database for the customer information that was imported from the CSV file and returns it. 
