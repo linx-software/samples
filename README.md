@@ -2,7 +2,7 @@
 
 This repository contains [Linx](https://linx.software) sample solutions and source files (database scripts, test data). 
 
-You are able to download and open the Linx solutions (.lsoz) in your Linx Application Designer. 
+You are able to open the Linx solutions (.lsoz) files in your Linx Application Designer IDE. 
 
 This repository is provided for demonstration purposes only.
 
