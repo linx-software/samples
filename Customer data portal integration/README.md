@@ -7,7 +7,7 @@ A CSV file containing Customer related data is dropped into a file server direct
 When the file is picked up, the Customer data is retrieved from the file and then inserted into a SQL database row by row. 
 A Linx REST web service then returns the Customer data from the database when requested from a front-end portal (UI Bakery).
 
-Video walkthroughs available [here].
+Video walkthroughs available [here](https://www.youtube.com/watch?v=Apr5Tbde5Gw&list=PLdcG1Axb6Mavb5860CMxzuHH3GwE83pgw).
 
 ## Process Flow
 
