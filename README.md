@@ -1,6 +1,6 @@
 # Linx Samples
 
-This repository contains [Linx] (https://linx.software) sample solutions and source files (database scripts, test data). 
+This repository contains [Linx](https://linx.software) sample solutions and source files (database scripts, test data). 
 
 This repository is provided for demonstration purposes only.
 
