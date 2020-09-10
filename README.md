@@ -6,7 +6,7 @@ This repository is provided for demonstration purposes only.
 
 You are able to open the Linx solutions (.lsoz) files in your Linx Application Designer IDE (for a free license to use the IDE, [contact us](support@linx.software)).
 
-Linx applications are hosted on a Linx Server - *trial periods* can be be arranged, [regsiter with us](support@linx.software).
+Linx applications are hosted on a Linx Server - *trial periods* can be be arranged, [register with us](support@linx.software).
 
 Resources:
 - [Developer documentation](https://linx.software/docs/)
