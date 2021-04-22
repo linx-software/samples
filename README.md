@@ -79,7 +79,6 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 📗 Latest community discussions
 
 <!-- COMMUNITY-POST-LIST:START -->
-
 - [Cloud server API deployment](https://community.linx.software/community/t/cloud-server-api-deployment/535)
 - [Call SOAP service](https://community.linx.software/community/t/call-soap-service/534)
 - [HTTp Response body trim](https://community.linx.software/community/t/http-response-body-trim/528)
