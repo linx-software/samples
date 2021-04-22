@@ -93,7 +93,6 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The Ultimate Guide to Building a Low-code REST API (How to Guide)](https://linx.software/the-ultimate-guide-to-building-a-low-code-rest-api-how-to-guide/)
 - [APIs vs Microservices](https://linx.software/apis-vs-microservices/)
 - [State of the API, 2020](https://linx.software/state-of-the-api-report-2020/)
