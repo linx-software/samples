@@ -64,7 +64,6 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
 - [Linx Tutorials: Settings](https://www.youtube.com/watch?v=Tfcy2g_cQ7k)
 - [Linx Tutorials: Plugins](https://www.youtube.com/watch?v=mPwyFnvXonI)
 - [Linx Tutorials: Debug](https://www.youtube.com/watch?v=K5uHUf5VB_U)
