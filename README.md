@@ -95,8 +95,8 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 - [The Ultimate Guide to Building a Low-code REST API (How to Guide)](https://linx.software/the-ultimate-guide-to-building-a-low-code-rest-api-how-to-guide/)
 - [APIs vs Microservices](https://linx.software/apis-vs-microservices/)
 - [State of the API, 2020](https://linx.software/state-of-the-api-report-2020/)
-- [The Different Types of APIs](https://linx.software/the-different-types-of-apis/)
-- [Top Tips for Faster Development](https://linx.software/top-tips-for-faster-development/)
+- [Building an API? Consider Low-Code](https://linx.software/building-an-api-consider-low-code/)
+- [Design. Build. Host. The 28 API  Tools you Need](https://linx.software/28-api-tools-to-design-build-and-host-your-next-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [..more articles](https://linx.software/low-code-blog/)
