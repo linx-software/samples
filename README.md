@@ -78,11 +78,11 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 📗 Latest community discussions
 
 <!-- COMMUNITY-POST-LIST:START -->
+- [GCP integration](https://community.linx.software/community/t/gcp-integration/539)
 - [Cloud server API deployment](https://community.linx.software/community/t/cloud-server-api-deployment/535)
 - [Call SOAP service](https://community.linx.software/community/t/call-soap-service/534)
 - [HTTp Response body trim](https://community.linx.software/community/t/http-response-body-trim/528)
 - [REST Plugin - v1.8.0.0 released!](https://community.linx.software/community/t/rest-plugin-v1-8-0-0-released/523)
-- [Linx Server time (UTC+0)](https://community.linx.software/community/t/linx-server-time-utc-0/522)
 <!-- COMMUNITY-POST-LIST:END -->
 
 ▶️ [..more discussions](https://community.linx.software/community/)
