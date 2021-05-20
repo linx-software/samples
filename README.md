@@ -16,6 +16,7 @@ Repositories belonging to the [Linx sample library](https://github.com/linx-soft
 
 ## Contributing
 If you'd like to contribute to the [Linx sample library](https://github.com/linx-software), reach out to us at support@linx.software.
+
 ---
 
 ## What's Linx?
