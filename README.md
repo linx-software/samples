@@ -14,18 +14,8 @@ The [Linx sample library](https://github.com/linx-software) consists of a collec
 
 Repositories belonging to the [Linx sample library](https://github.com/linx-software) contain a single Linx Solution (`Solution.lsoz`) as well as any additional resources that are needed.
 
-These Solutions fall into one of the below categories of functionality which are indicated as a 'topic' inside the particular repository (`[topic tag]`):
-
-`[common-lib]` [**Common library**](https://github.com/search?q=org%3Alinx-software+common-lib) are small re-usable, user developed 'helper' functions which achieve a small specific task .
-
-`[template]` [**Templates**](https://github.com/search?q=org%3Alinx-software+template) are generic pieces of functionality that achieve a complex task without integrating with a 3rd-party platform. These can be used within another Solution to achieve a more complex integration.
-
-`[integration]` [**Integrations**](https://github.com/search?q=org%3Alinx-software+integration) demonstrate connecting to a 3rd-party platform in a generic manner. Typically, these consist of 'API Connector wrapper' functions which can then be used as part of a larger, more customized integration.
-
-`[user-app]` [**User Apps**](https://github.com/search?q=org%3Alinx-software+user-app) shows off user's custom applications built with Linx.
-
-Additional 'topics' are included in each repository to indicate more information about the type of functionality the sample contains.
-
+## Contributing
+If you'd like to contribute to the [Linx sample library](https://github.com/linx-software), reach out to us at support@linx.software.
 ---
 
 ## What's Linx?
