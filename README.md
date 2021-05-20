@@ -31,13 +31,13 @@ Applications are then deployed and hosted on a Linx Application server.
 
 Some common use cases of Linx are:
 
-**Integration layer:**
+- **Integration layer:**
 Consume and host web services, process custom files locally and via FTP, multiple database drivers.
 
-**Automation:**
+- **Automation:**
 Perform automatic file transfers and imports, directory monitoring, script executions, API updates, batch file processing etc.
 
-**APIs:**
+- **APIs:**
 Build , extend and host REST & SOAP web services.
 
 ---
