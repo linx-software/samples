@@ -10,10 +10,6 @@ The [Linx sample library](https://github.com/linx-software) consists of a collec
 
 ---
 
-## Samples overview
-
-Repositories belonging to the [Linx sample library](https://github.com/linx-software) contain a single Linx Solution (`Solution.lsoz`) as well as any additional resources that are needed.
-
 ## Contributing
 If you'd like to contribute to the [Linx sample library](https://github.com/linx-software), reach out to us at support@linx.software.
 
