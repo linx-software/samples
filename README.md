@@ -1,5 +1,7 @@
-# <img src="https://avatars.githubusercontent.com/u/62884647?s=200&v=4" alt="Linx logo" width="36" height="36"> **Linx Sample library**
+![](https://github.com/linx-software/samples/blob/master/linx-banner-github.jpg)
 
+
+# **Linx Sample lirbrary**
 
 
 The [Linx sample library](https://github.com/linx-software) consists of a collection of sample Solutions which were developed on the [Linx](https://linx.software) low-code back-end platform.
