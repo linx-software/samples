@@ -5,8 +5,8 @@
 The [Linx sample library](https://github.com/linx-software) consists of a collection of repositories which contain sample Solutions which were developed on the [Linx](https://linx.software) low-code back-end platform.
 
 [![](https://img.shields.io/badge/Desktop_IDE-DOWNLOAD-download?style=flat&logoColor=white&logo=windows)](https://linx.software/get-started-today/)
-[![](https://img.shields.io/badge/-ℹ️_Documentation-informational?style=flat&logoColor=white&logo=&color=blue)](https://linx.software/docs/getstarted/overview/)
-[![](https://img.shields.io/badge/-Community-informational?style=flat&logoColor=white&logo=discourse&color=2bbc8a)](https://community.linx.software/community/)
+[![](https://img.shields.io/badge/-ℹ️_Documentation-informational?style=flat&logoColor=white&logo=&color=blue)](https://linx.software/docs/getstarted/overview?utm=gh)
+[![](https://img.shields.io/badge/-Community-informational?style=flat&logoColor=white&logo=discourse&color=2bbc8a)](https://community.linx.software/community?utm=gh)
 
 ### Contributing:
 
