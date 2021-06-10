@@ -1,8 +1,8 @@
-# <img src="https://avatars.githubusercontent.com/u/62884647?s=200&v=4" alt="Linx logo" width="50" height="50"> **Linx Sample library**
+# <img src="https://avatars.githubusercontent.com/u/62884647?s=200&v=4" alt="Linx logo" width="36" height="36"> **Linx Sample library**
 
 
 
-The [Linx sample library](https://github.com/linx-software) consists of a collection of repositories which contain sample Solutions which were developed on the [Linx](https://linx.software) low-code back-end platform.
+The [Linx sample library](https://github.com/linx-software) consists of a collection of sample Solutions which were developed on the [Linx](https://linx.software) low-code back-end platform.
 
 [![](https://img.shields.io/badge/Desktop_IDE-DOWNLOAD-download?style=flat&logoColor=white&logo=windows)](https://linx.software/get-started-today/)
 [![](https://img.shields.io/badge/-ℹ️_Documentation-informational?style=flat&logoColor=white&logo=&color=blue)](https://linx.software/docs/getstarted/overview?utm=gh)
