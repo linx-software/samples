@@ -1,7 +1,7 @@
 ![](https://github.com/linx-software/samples/blob/master/linx-banner-github.jpg)
 
 
-# **Linx Sample lirbrary**
+# **Linx Sample library**
 
 
 The [Linx sample library](https://github.com/linx-software) consists of a collection of sample Solutions which were developed on the [Linx](https://linx.software) low-code back-end platform.
