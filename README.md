@@ -201,11 +201,11 @@ For any questions about Linx, get in contact with *support@linx.software* or pos
 📗 Latest community discussions
 
 <!-- COMMUNITY-POST-LIST:START -->
+- ['Samples' have moved to GitHub!](https://community.linx.software/community/t/samples-have-moved-to-github/543)
 - [Linx v 5.21.0.0 released](https://community.linx.software/community/t/linx-v-5-21-0-0-released/542)
 - [How to convert a UnixTimeStamp to a datetime](https://community.linx.software/community/t/how-to-convert-a-unixtimestamp-to-a-datetime/541)
 - [GCP integration](https://community.linx.software/community/t/gcp-integration/539)
 - [Cloud server API deployment](https://community.linx.software/community/t/cloud-server-api-deployment/535)
-- [Call SOAP service](https://community.linx.software/community/t/call-soap-service/534)
 <!-- COMMUNITY-POST-LIST:END -->
 
 ▶️ [..more discussions](https://community.linx.software/community/)
