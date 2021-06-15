@@ -9,10 +9,57 @@ The [Linx sample library](https://github.com/linx-software) consists of a collec
 [![](https://img.shields.io/badge/Desktop_IDE-DOWNLOAD-download?style=flat&logoColor=white&logo=windows)](https://linx.software/get-started-today/)
 [![](https://img.shields.io/badge/-ℹ️_Documentation-informational?style=flat&logoColor=white&logo=&color=blue)](https://linx.software/docs/getstarted/overview?utm=gh)
 [![](https://img.shields.io/badge/-Community-informational?style=flat&logoColor=white&logo=discourse&color=2bbc8a)](https://community.linx.software/community?utm=gh)
+[![](https://img.shields.io/badge/Home_site-linx.software-informational?style=flat&logoColor=white&logo=web&color=blue)](https://linx.software/?utm=gh)
 
 ### Contributing:
 
 If you'd like to contribute to the [Linx sample library](https://github.com/linx-software), reach out to us at support@linx.software.
+
+
+---
+
+# What's Linx?
+
+
+
+Linx is a low-code, general-purpose, back-end development tool.
+
+Linx simplifies coding by abstracting many of the commonly used concepts and functionality in traditional coding with visual representations.
+
+Linx Solutions are applications which have been developed and debugged in the [Linx Designer](https://linx.software/get-started-today/), which is a desktop based low-code, drag-and-drop IDE.
+
+Applications are then deployed and hosted on a Linx Application server.
+
+Some common use cases of Linx are:
+
+- **Integration layer:**
+  Consume and host web services, process custom files locally and via FTP, multiple database drivers.
+
+- **Automation:**
+  Perform automatic file transfers and imports, directory monitoring, script executions, API updates, batch file processing etc.
+
+- **APIs:**
+  Build , extend and host REST & SOAP web services.
+
+
+## 🔧 Technologies and tools
+
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Linx_Designer-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hosting-Linx_Application_Server-informational?style=flat&logo=microsoft_sql_server&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Databases--informational?style=flat&logo=database&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Web_services--informational?style=flat&logo=database&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/🌩️-REST-informational?style=flat&logo=U+1F329&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SOAP--informational?style=flat&logo=U+1F329&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Linux--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ---
 
@@ -44,7 +91,7 @@ Automate the management of your online Shopify storefront.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linx-software&repo=shopify&theme=dark)](https://github.com/linx-software/shopify)
 
-## **Microsoft Graph API**
+## **Microsoft Graph**
 
 Connect the different areas of your Office365 instance.
 
@@ -80,7 +127,7 @@ Use this sample to management inventory on the OptimoRoute inventory system.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=linx-software&repo=optimo-route&theme=dark)](https://github.com/linx-software/optimo-route)
 
-## File management:
+## **File management**:
 
 The below samples provide a template for achieving file related functionality with Linx.
 
@@ -124,53 +171,7 @@ This _Project_ contains numerous custom, user developed helper functions. These 
 
 This sample Solutions can be used as the starting point for your Linx Solutions or you are able to copy the whole '**\_HelperFunctions**' project or even single functions into your own Solution.
 
----
 
-# What's Linx?
-
-⬇️ [Download IDE](https://linx.software/get-started-today/)
-📗 [Community](https://community.linx.software/community/)
-📘 [Documentation](https://linx.software/docs/getstarted/overview/)
-
-Linx is a low-code, general-purpose, back-end development tool.
-
-Linx simplifies coding by abstracting many of the commonly used concepts and functionality in traditional coding with visual representations.
-
-Linx Solutions are applications which have been developed and debugged in the [Linx Designer](https://linx.software/get-started-today/), which is a desktop based low-code, drag-and-drop IDE.
-
-Applications are then deployed and hosted on a Linx Application server.
-
-Some common use cases of Linx are:
-
-- **Integration layer:**
-  Consume and host web services, process custom files locally and via FTP, multiple database drivers.
-
-- **Automation:**
-  Perform automatic file transfers and imports, directory monitoring, script executions, API updates, batch file processing etc.
-
-- **APIs:**
-  Build , extend and host REST & SOAP web services.
-
----
-
-## 🔧 Technologies and tools
-
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-Linx_Designer-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hosting-Linx_Application_Server-informational?style=flat&logo=microsoft_sql_server&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Databases--informational?style=flat&logo=database&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Web_services--informational?style=flat&logo=database&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/🌩️-REST-informational?style=flat&logo=U+1F329&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SOAP--informational?style=flat&logo=U+1F329&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Linux--informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ---
 
