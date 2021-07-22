@@ -6,110 +6,20 @@
 <h1>Linx Sample Library</h1> 
 
 
-<table>
-    <tr>
-        <th >
-            <h3>Integrated systems</h3>
-        </th>
-        <th>
-            <h3>Backend automation</h3>
-        </th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/cloudconvert-integration">CloudConvert</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/file-import-process">File import process</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/copper">Copper CRM</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/linux-integration">Linux server management</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/github">GitHub</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/github-devops-management">GitHub - Devops</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/ms-graph">Microsoft Graph</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/github-slack-devops-management">GitHub/Slack -
-                Devops</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/optimo-route">Optimo-Route</a><br />
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/google-drive-file-management">GoogleDrive file management</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/salesforce">Salesforce</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/linux-integration">Linux server management</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/sharpspring-api">Sharpspring</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/salesforce-automation">Salesforce customer
-                management</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/shopify">Shopify</a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/slack-devops-management">Slack</a>
-        </td>
-        <td></td>
-       </tr>
-    <tr>
-        <th>
-            <h3>APIs & microservices</h3>
-        </th>
-        <th>
-            <h3>Utilities</h3>
-        </th>
-    </tr>
-    <tr>
-        <td>
-        <a href="https://github.com/linx-software/static-website-backend">Static site</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/razor-templates-pdf-report">Generating PDF Reports</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/linx-software/linx-oauth2-token-service">Linx-OAuth  token service</a>
-        </td>
-        <td>
-            <a href="https://github.com/linx-software/docx-populate-placeholders">Populating docx</a>
-        </td>
-    </tr>
-</table>
+|Integrated systems|Backend automation|
+|:---|:---|
+|[CloudConvert](https://github.com/linx-software/cloudconvert-integration)|[File import process](https://github.com/linx-software/file-import-process)|
+|[Copper CRM](https://github.com/linx-software/copper)|[Linux server management](https://github.com/linx-software/linux-integration)|
+|[GitHub](https://github.com/linx-software/github)|[GitHub - Devops](https://github.com/linx-software/github-devops-management)|
+|[Microsoft Graph](https://github.com/linx-software/ms-graph)|[GitHub/Slack - Devops](https://github.com/linx-software/github-slack-devops-management)|
+|[Optimo-Route](https://github.com/linx-software/optimo-route)|[GoogleDrive file management](https://github.com/linx-software/google-drive-file-management)|
+|[Salesforce](https://github.com/linx-software/salesforce)|[Linux server management](https://github.com/linx-software/linux-integration)|
+|[Sharpspring](https://github.com/linx-software/sharpspring-api)|[Salesforce customer management](https://github.com/linx-software/salesforce-automation)|
+|[Shopify](https://github.com/linx-software/shopify)||
+|[Slack](https://github.com/linx-software/slack-devops-management)||
+|**APIs and microservices**|**Utilities**|
+|[Static site](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
+|[Linx-OAuth  token service](https://github.com/linx-software/linx-oauth2-token-service)|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|
 
 ---
 
