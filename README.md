@@ -11,7 +11,7 @@
 |[CloudConvert](https://github.com/linx-software/cloudconvert-integration)|[File import process](https://github.com/linx-software/file-import-process)|
 |[Copper CRM](https://github.com/linx-software/copper)|[Linux server management](https://github.com/linx-software/linux-integration)|
 |[GitHub](https://github.com/linx-software/github)|[GitHub - Devops](https://github.com/linx-software/github-devops-management)|
-|[Microsoft Graph](https://github.com/linx-software/ms-graph)|[GitHub/Slack - Devops](https://github.com/linx-software/github-slack-devops-management)|
+|[Microsoft Graph](https://github.com/linx-software/microsoft-graph-api-connectors)|[GitHub/Slack - Devops](https://github.com/linx-software/github-slack-devops-management)|
 |[Optimo-Route](https://github.com/linx-software/optimo-route)|[GoogleDrive file management](https://github.com/linx-software/google-drive-file-management)|
 |[Salesforce](https://github.com/linx-software/salesforce-api-connectors)|[Linux server management](https://github.com/linx-software/linux-integration)|
 |[Sharpspring](https://github.com/linx-software/sharpspring-api)|[Salesforce customer management](https://github.com/linx-software/salesforce-automation)|
