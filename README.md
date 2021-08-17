@@ -18,7 +18,7 @@
 |[Shopify](https://github.com/linx-software/shopify)||
 |[Slack](https://github.com/linx-software/slack-devops-management)||
 |**APIs and microservices**|**Utilities**|
-|[Static site](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
+|[Static site backend](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
 |[Linx-OAuth  token service](https://github.com/linx-software/linx-oauth2-token-service)|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|
 |[Swagger Petstore](https://github.com/linx-software/petstore-api) | |
 ---
