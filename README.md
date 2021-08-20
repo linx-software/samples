@@ -15,7 +15,7 @@
 |[Optimo-Route](https://github.com/linx-software/optimo-route)|[GoogleDrive file management](https://github.com/linx-software/google-drive-file-management)|
 |[Salesforce](https://github.com/linx-software/salesforce-api-connectors)|[Linux server management](https://github.com/linx-software/linux-integration)|
 |[Sharpspring](https://github.com/linx-software/sharpspring-api)|[Salesforce customer management](https://github.com/linx-software/salesforce-automation)|
-|[Shopify](https://github.com/linx-software/shopify)||
+|[Shopify](https://github.com/linx-software/shopify-api-integration)||
 |[Slack](https://github.com/linx-software/slack-devops-management)||
 |**APIs and microservices**|**Utilities**|
 |[Static site backend](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
