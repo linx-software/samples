@@ -19,9 +19,9 @@
 |[Slack](https://github.com/linx-software/slack-devops-management)||
 |[Telegram Bot](https://github.com/linx-software/Telegram-Bot-Backend) | |
 |**APIs and microservices**|**Utilities**|
-|[Linx-OAuth  token service](https://github.com/linx-software/linx-oauth2-token-service)|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|
-|[SignalR chat](https://github.com/linx-software/signalr-chat) | |
-|[Static site backend](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
+|[Linx-OAuth  token service](https://github.com/linx-software/linx-oauth2-token-service)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
+|[SignalR chat](https://github.com/linx-software/signalr-chat)|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|
+|[Static site backend](https://github.com/linx-software/static-website-backend)||
 |[Swagger Petstore](https://github.com/linx-software/petstore-api) | |
 |[RealWorld App](https://github.com/linx-software/realworld-api) | |
 |[REST Unixtime Converter](https://github.com/linx-software/unixtime) | |
