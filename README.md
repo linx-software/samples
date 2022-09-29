@@ -17,12 +17,13 @@
 |[Sharpspring](https://github.com/linx-software/sharpspring-api)|[Salesforce customer management](https://github.com/linx-software/salesforce-automation)|
 |[Shopify](https://github.com/linx-software/shopify-api-integration)||
 |[Slack](https://github.com/linx-software/slack-devops-management)||
+|[Telegram Bot Backend](https://github.com/linx-software/Telegram-Bot-Backend) | |
 |**APIs and microservices**|**Utilities**|
-|[Static site backend](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
 |[Linx-OAuth  token service](https://github.com/linx-software/linx-oauth2-token-service)|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|
+|[SignalR chat](https://github.com/linx-software/signalr-chat) | |
+|[Static site backend](https://github.com/linx-software/static-website-backend)|[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|
 |[Swagger Petstore](https://github.com/linx-software/petstore-api) | |
 |[RealWorld App](https://github.com/linx-software/realworld-api) | |
-|[SignalR chat](https://github.com/linx-software/signalr-chat) | |
 |[REST Unixtime Converter](https://github.com/linx-software/unixtime) | |
 ---
 
