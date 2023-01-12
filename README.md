@@ -1,6 +1,5 @@
 
-<div class="mydocy" style="display: flex; flex-direction: column;align-items: center;">
-<a href="https://linx.software/"><img src="https://github.com/linx-software/samples/blob/master/img/linx-logo.svg"  width="80" height="80"></a>
+<div class="mydocy" style="display: flex; flex-direction: column;">
 <h1>Linx Samples Library</h1> 
 
 1. [System Integrations](#SystemIntegrations)
@@ -52,7 +51,8 @@
 |[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|Create text using models and Razor templates|5|
 |[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|Replace content in .docx files|5, 6|
 
-<div style="height: 1px; background-color: white;"></div>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;"></div>
 
 [Documentation](https://linx.software/docs/getstarted/overview?utm=gh) | [Community](https://community.linx.software/community?utm=gh) | [Blog](https://linx.software/low-code-blog/?utm=gh) | [YouTube](https://www.youtube.com/channel/UCO4KWEv8nUzeaFRO4zKS4gA) | [Twitter](https://twitter.com/LinxCode)
 
