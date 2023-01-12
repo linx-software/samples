@@ -1,29 +1,3 @@
-<style>
-    .mydocy.mydocy table {
-        width: 100% !important;
-        max-width: 800px !important;
-        border-bottom: 1px solid #cccccc;
-    }
-    .mydocy.mydocy table th {
-        font-weight: normal !important;
-        font-style: italic !important;
-    }
-    .mydocy.mydocy table td {
-        border: none;
-    }
-    .mydocy.mydocy table td:nth-child(1) {
-        min-width: 220px;
-    }
-    .mydocy.mydocy table td:nth-child(2) {
-        width: 100%;
-    }
-    .mydocy.mydocy table td:nth-child(3) {
-        min-width: 126px;
-    }
-    h2 {
-        margin-top: 20px;
-    }
-</style>
 
 <div class="mydocy" style="display: flex; flex-direction: column;align-items: center;">
 <a href="https://linx.software/"><img src="https://github.com/linx-software/samples/blob/master/img/linx-logo.svg"  width="80" height="80"></a>
