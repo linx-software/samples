@@ -11,7 +11,7 @@
 
 |Repo|Description|Linx Versions|
 |:-----|:-----|:-----|
-|[CloudConvert](https://github.com/linx-software/cloudconvert-integration)|Bulk convert files from / to a variety of formats|5|
+|[CloudConvert](https://github.com/linx-software/cloudconvert-integration)|Bulk convert files from and to a variety of formats|5|
 |[Copper CRM](https://github.com/linx-software/copper)|Manage users, people and opportunities using <a href="https://developer.copper.com/" target="_blank">Copper CRM</a>|5|
 |[Email to Slack](https://github.com/linx-software/email-to-slack)|Monitor GMail accounts and post incoming messages on Slack|5, 6|
 |[GitHub Repos](https://github.com/linx-software/github)|Manage Github repositories|5, 6|
@@ -26,9 +26,9 @@
 
 |Repo|Description|Linx Versions|
 |:-----|:-----|:-----|
-|[Camunda Workflow](https://github.com/linx-software/Camunda-Workflow)|Use a workflow engine to manage state|5|
+|[Camunda Workflow](https://github.com/linx-software/Camunda-Workflow)|Use workflow engines to manage state|5|
 |[GitHub Commits](https://github.com/linx-software/github-devops-management)|Retrieve Github commit activity and notify stakeholders via email|5, 6|
-|[GitHub/Slack](https://github.com/linx-software/github-slack-devops-management)|Pull Github commits and issues and notify stakeholders on Slack|5, 6|
+|[GitHub/Slack](https://github.com/linx-software/github-slack-devops-management)|Monitor Github repos and send Slack messages about commits and issues|5, 6|
 |[GoogleDrive](https://github.com/linx-software/google-drive-file-management)|Manage and sync GoogleDrive files and meta data|5, 6|
 |[Linux Servers](https://github.com/linx-software/linux-integration)|Use PuTTY to send commands to Linux machines|5|
 |[Telegram Bot](https://github.com/linx-software/Telegram-Bot-Backend)|Automatically respond to Telegram messages|6|
@@ -41,7 +41,7 @@
 |[RealWorld App](https://github.com/linx-software/realworld-api)|A Linx backend for the <a href="https://github.com/gothinkster/realworld" target="_blank">RealWorld</a> demo|5, 6|
 |[REST Unixtime Converter](https://github.com/linx-software/unixtime)|Convert Unixtimestamps to DateTime objects and vice versa|5, 6|
 |[SignalR chat](https://github.com/linx-software/signalr-chat)|Update web apps in real-time|5, 6|
-|[Static site backend](https://github.com/linx-software/static-website-backend)|Secure HTML web apps only with JS and REST|5, 6|
+|[Static site backend](https://github.com/linx-software/static-website-backend)|Build secure HTML web apps with JS and REST|5, 6|
 |[Swagger Petstore](https://github.com/linx-software/petstore-api)|A Linx backend for the <a href="https://github.com/swagger-api/swagger-petstore" target="_blank">Petstore</a> demo|5, 6|
 
 <h2 id="Utilities">Utilities</h2>
