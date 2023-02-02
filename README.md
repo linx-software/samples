@@ -49,7 +49,7 @@
 |Repo|Description|Linx Versions|
 |:-----|:-----|:-----|
 |[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|Personalise text using models and Razor templates|5|
-|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|Replace content in .docx files|5, 6|
+|[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|Replace content in .docx files|6|
 
 </div>
 <div style="display: flex; flex-direction: column; align-items: center;"></div>
