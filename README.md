@@ -49,7 +49,7 @@
 |Repo|Description|Linx Versions|
 |:-----|:-----|:-----|
 |[Generating PDF Reports](https://github.com/linx-software/razor-templates-pdf-report)|Personalise text using models and Razor templates|5|
-|[Generating Random Strings](https://github.com/linx-software/generate-random-string)|Generate random strings|6|
+|[Generating Random String](https://github.com/linx-software/generate-random-string)|Generate random strings|6|
 |[Populating docx](https://github.com/linx-software/docx-populate-placeholders)|Replace content in .docx files|6|
 
 </div>
